@@ -4,7 +4,7 @@ Dinarcoin integration/staging tree
 http://www.dinarcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Dinarcoin Developers
+Copyright (c) 2021-2021 Dinarcoin Developers
 
 What is Dinarcoin?
 ----------------
@@ -45,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/dinarcoin-project/dinarcoin/tags) are created
+completely stable. [Tags](https://github.com/Ridde83/dinarcoin/) are created
 regularly to indicate new official, stable release versions of Dinarcoin.
 
 Testing
