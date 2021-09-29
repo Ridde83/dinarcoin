@@ -3,7 +3,8 @@ Dinarcoin integration/staging tree
 
 http://www.dinarcoin.org
 
-Copyright (c) 2009-2014 Bitcoin Developers
+Copyright (c) 2009-2021 Bitcoin Developers
+Copyright (c) 2011-2021 Bitcoin Developers
 Copyright (c) 2021-2021 Dinarcoin Developers
 
 What is Dinarcoin?
@@ -14,12 +15,11 @@ Dinarcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm
  - subsidy halves in 840k blocks (~4 years)
  - ~42 million total coins
 
-The rest is the same as Bitcoin.
- - 50 coins per block
+ - 25 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Dinarcoin client sofware, see http://www.dinarcoin.org.
+the Dinarcoin client sofware.
 
 License
 -------
