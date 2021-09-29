@@ -4,7 +4,7 @@ Dinarcoin integration/staging tree
 http://www.dinarcoin.org
 
 Copyright (c) 2009-2021 Bitcoin Developers
-Copyright (c) 2011-2021 Bitcoin Developers
+Copyright (c) 2011-2021 Litecoin Developers
 Copyright (c) 2021-2021 Dinarcoin Developers
 
 What is Dinarcoin?
