@@ -1,6 +1,6 @@
 Dinarcoin integration/staging tree
 ================================
-
+www.dinarcoin.eu
 Copyright (c) 2009-2021 Bitcoin Developers
 Copyright (c) 2011-2021 Litecoin Developers
 Copyright (c) 2021-2021 Dinarcoin Developers
